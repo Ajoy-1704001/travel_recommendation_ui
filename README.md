@@ -1,6 +1,6 @@
 # travel_recommendation_ui
 
-A new Flutter application.
+Here you can see a bottom navigation bar with rounded edges. You can also see how I used Stack widget to build this UI. 
 
 ## Getting Started
 
